@@ -15,12 +15,12 @@
 ⚠️⚠️⚠️</p>
 </div>
 
-<div align="left">
-Number 1: Theory 🤣🤣🤣
-  
-Number 2: Practice 🤣🤣🤣
-</div>
 
+<div align="left">
+Number 1: Theory 📚📚📚
+
+Number 2: Practice 💻💻💻
+</div>
 
 
 <div align="left">
@@ -34,5 +34,9 @@ Number 2: Practice 🤣🤣🤣
 <p>Youtube channel DevDojo Reactor course: https://www.youtube.com/watch?v=4Mlky9agvck&list=PL62G310vn6nG3sBMCIEoZBK3r3E_4aKW5&index=3</p>
 <p>ReactiveX for learning Observable, Operators, Single, SubjectScheduler: https://reactivex.io/documentation/operators.html</p>
 <p>ReactiveX for learning Observable, Operators, Single, SubjectScheduler: https://reactivex.io/documentation/operators.html</p>
+<p>Link for Reactive Programming: https://medium.com/@marcelomg21/reactive-programming-project-reactor-spring-webflux-em-uma-arquitetura-de-micro-servi%C3%A7os-e4351028ff9a</p>
+<p>reactive streams: https://www.reactive-streams.org/</p>
+<p>Reactive streams github docs: https://github.com/reactive-streams/reactive-streams-jvm/blob/master/README.md#specification</p>
+<p>Reactive manifesto: https://www.reactivemanifesto.org/</p>
 </div>
 </div>
