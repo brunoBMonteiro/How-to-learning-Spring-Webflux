@@ -38,5 +38,8 @@ Number 2: Practice 💻💻💻
 <p>reactive streams: https://www.reactive-streams.org/</p>
 <p>Reactive streams github docs: https://github.com/reactive-streams/reactive-streams-jvm/blob/master/README.md#specification</p>
 <p>Reactive manifesto: https://www.reactivemanifesto.org/</p>
+<p>Link for marbles Diagram: https://rxmarbles.com/</p>
+<p>Link for marbles Diagram: https://medium.com/@jshvarts/read-marble-diagrams-like-a-pro-3d72934d3ef5</p>
+<p>Link for DZone TomCat vs Netty: https://dzone.com/articles/spring-webflux-eventloop-vs-thread-per-request-mod</p>
 </div>
 </div>
